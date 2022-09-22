@@ -1,7 +1,7 @@
 package modules4
 
-func Sayhello() string{
-	return "Hello bro hasen"
+func Sayhello(name string) string{
+	return "Hello " + name
 }
 
 func Saybye() string{
