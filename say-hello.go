@@ -5,5 +5,5 @@ func Sayhello(name string) string{
 }
 
 func Saybye() string{
-	return "dada"
+	return "bye"
 }
